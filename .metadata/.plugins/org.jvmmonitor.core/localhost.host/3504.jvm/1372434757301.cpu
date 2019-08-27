@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?JvmMonitor version="3.8.1"?>
+<cpu-profile date="2013/06/28 12:52:37" runtime="3504@localhost" mainClass="com.competition.cli.Main" arguments="-Dfile.encoding=Cp1252">
+</cpu-profile>

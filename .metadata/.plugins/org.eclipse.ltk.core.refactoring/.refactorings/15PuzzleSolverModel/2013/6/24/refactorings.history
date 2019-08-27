@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;parant&apos; in &apos;com.solver.TreeNode.TreeNode(...)&apos; to &apos;parent&apos;&#x0D;&#x0A;- Original project: &apos;15PuzzleSolverModel&apos;&#x0D;&#x0A;- Original element: &apos;com.solver.TreeNode.TreeNode(TreeNode&lt;T&gt;, T).parant&apos;&#x0D;&#x0A;- Renamed element: &apos;parant&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;parant&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.solver{TreeNode.java[TreeNode~TreeNode~QTreeNode\&lt;QT;&gt;;~QT;@parant!349!366!361!366!QTreeNode\&lt;QT;&gt;;!0!true" name="parent" references="true" stamp="1371189426942" version="1.0"/>
+</session>

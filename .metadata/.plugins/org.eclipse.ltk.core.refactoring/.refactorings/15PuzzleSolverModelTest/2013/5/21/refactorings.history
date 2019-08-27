@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.test.model.StateTest.testEquals()&apos; to &apos;testSimilar&apos;&#x0D;&#x0A;- Original project: &apos;15PuzzleSolverModelTest&apos;&#x0D;&#x0A;- Original element: &apos;com.test.model.StateTest.testEquals()&apos;&#x0D;&#x0A;- Renamed element: &apos;com.test.model.StateTest.testSimilar()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;testEquals&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.test.model{StateTest.java[StateTest~testEquals" name="testSimilar" references="true" stamp="1369009374121" version="1.0"/>
+</session>

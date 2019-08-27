@@ -1,0 +1,19 @@
+1369319655593	Rename type 'Worker'
+1369320825517	Delete element
+1369326723312	Rename type 'Player'
+1369327382084	Rename field 'elapsedTime'
+1369329618907	Delete element
+1369337330844	Delete element
+1369339444969	Move compilation units
+1369342310129	Rename method 'getSolution'
+1369396665368	Rename field 'mnOptionsSearcher'
+1369396678964	Rename field 'mniOptionsSearcherDepth'
+1369396687107	Rename field 'mniOptionsSearcherBreadth'
+1369399799694	Rename field 'mniOptionsAlgorithmDepth'
+1369399806400	Rename field 'mniOptionsAlgorithmBreadth'
+1369399813160	Rename field 'mnOptionsAlgorithm'
+1369402871445	Rename field 'done'
+1369410544082	Rename field 'sucess'
+1369411263819	Delete element
+1369411341690	Rename package 'com.gui.backgroundthread'
+1369411357233	Rename package 'com.gui.worker'

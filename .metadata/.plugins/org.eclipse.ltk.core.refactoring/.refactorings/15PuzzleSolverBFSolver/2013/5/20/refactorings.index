@@ -1,0 +1,42 @@
+1368905023263	Rename local variable 'node'
+1368906565094	Rename type 'BreadthFirstSearcher'
+1368906575469	Rename type 'DepthFirstSearcher'
+1368906580538	Delete element
+1368909777381	Move compilation units
+1368909783848	Delete element
+1368911407850	Delete element
+1368911416688	Rename type 'Node'
+1368911670344	Rename local variable 'parent'
+1368912243507	Rename local variable 'children'
+1368912489829	Rename local variable 'states'
+1368913585517	Rename package 'com.solver.bfsolver.tree'
+1368921124891	Delete elements
+1368923654534	Move compilation unit
+1368923657082	Delete element
+1368923767887	Rename type 'Searcher'
+1368923778315	Rename type 'DepthFirstSearcher'
+1368923791707	Rename type 'BreadthFirstSearcher'
+1368923863952	Rename type 'BreadthFirstInterator'
+1368923868437	Rename type 'DepthFirstInterator'
+1368923871601	Delete element
+1368923910406	Move compilation unit
+1368923912566	Move compilation unit
+1368923922837	Rename type 'BreadthFirstIterator'
+1368923928085	Rename type 'DepthFirstIterator'
+1368923938063	Delete element
+1368924158683	Rename type 'BreadthFirstTreeIterator'
+1368924165890	Rename type 'DepthFirstTreeIterator'
+1368924184558	Rename type 'Searcher'
+1368924236002	Move compilation units
+1368924251037	Rename package 'com.solver.bfsolver.tree.treesearcher'
+1368924257619	Rename type 'BreadthFirstTreeSearcher'
+1368924263256	Rename type 'DepthFirstTreeSearcher'
+1368924268169	Rename type 'TreeSearcher'
+1368925137010	Rename method 'getRoot'
+1368925145449	Rename method 'getFirst'
+1368926666306	Rename local variable 'root'
+1368927919349	Delete elements
+1368930263119	Rename local variable 'nodes'
+1368992233731	Rename local variable 'root'
+1369000465416	Rename type variable 'E'
+1369002049343	Rename local variable 'objects'

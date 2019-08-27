@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.uml&apos; to &apos;15PuzzleSolverTest/src&apos;&#x0D;&#x0A;- Original project: &apos;15PuzzleSolverModel&apos;&#x0D;&#x0A;- Destination element: &apos;15PuzzleSolverTest/src&apos;&#x0D;&#x0A;- Original element: &apos;15PuzzleSolverModel/src/com.uml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=15PuzzleSolverTest/src" element1="/src&lt;com.uml" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1371745010620" version="1.0"/>
+</session>

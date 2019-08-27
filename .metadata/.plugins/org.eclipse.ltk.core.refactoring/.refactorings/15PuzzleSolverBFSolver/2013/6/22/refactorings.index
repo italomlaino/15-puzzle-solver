@@ -1,0 +1,9 @@
+1370119034781	Rename field 'nGenerated'
+1370119092820	Rename method 'getHeuristicFunction'
+1370119097331	Rename method 'setHeuristicFunction'
+1370119103355	Rename local variable 'heuristicFunction'
+1370120958283	Rename local variable 'newParent'
+1370121553211	Move compilation unit
+1370121894911	Rename package 'com.solver.bfsolver.tree.searcher'
+1370121902628	Rename package 'com.solver.bfsolver.heuristic'
+1370121911761	Rename package 'com.solver.bfsolver'

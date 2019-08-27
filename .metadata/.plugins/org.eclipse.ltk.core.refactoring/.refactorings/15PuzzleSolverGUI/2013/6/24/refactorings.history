@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;mniOptionsHeuristicNotABad&apos; in &apos;com.gui.MainGUI&apos; to &apos;mniOptionsHeuristicNotBad&apos;&#x0D;&#x0A;- Original project: &apos;15PuzzleSolverGUI&apos;&#x0D;&#x0A;- Original element: &apos;com.gui.MainGUI.mniOptionsHeuristicNotABad&apos;&#x0D;&#x0A;- Renamed element: &apos;com.gui.MainGUI.mniOptionsHeuristicNotBad&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;mniOptionsHeuristicNotABad&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.gui{MainGUI.java[MainGUI^mniOptionsHeuristicNotABad" name="mniOptionsHeuristicNotBad" references="true" setter="false" stamp="1371319596301" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+1370531116512	Rename type 'PriorityDepthFirstSearcher'
+1370534871563	Rename type 'GreedyBestFirstSearcher'
+1370536416096	Rename local variable 'distance'
+1370536430466	Rename local variable 'distance'
+1370536445273	Rename method 'getLowestsDistance'
+1370536450859	Rename method 'getLowestDistance'
+1370536510076	Rename local variable 'distance'
+1370536536076	Rename local variable 'distance'
+1370659899089	Rename local variable 'lowest'
+1370661798130	Rename type 'PriorityDepthFirstSearcher'
+1370662295545	Move compilation unit
+1370666419088	Copy compilation unit
+1370666713766	Move compilation units
+1370666949585	Rename package 'com.astar'
+1370667014942	Move compilation units
+1370667017959	Delete element
+1370667024164	Move compilation units

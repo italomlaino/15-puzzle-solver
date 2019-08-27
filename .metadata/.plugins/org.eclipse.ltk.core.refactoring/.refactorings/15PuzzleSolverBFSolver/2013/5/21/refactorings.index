@@ -1,0 +1,24 @@
+1369012494288	Rename local variable 'state'
+1369029655765	Rename local variable 'firstNode'
+1369029666173	Rename local variable 'firstNode'
+1369029670117	Rename local variable 'treee'
+1369029678396	Rename local variable 'root'
+1369029711254	Rename field 'root'
+1369029724168	Rename method 'getFirstNode'
+1369341690582	Rename type 'BFSolver'
+1369341754228	Rename type 'BrutalForceSolver'
+1369342422163	Rename type 'BFSBFSolver'
+1369342427627	Rename type 'DFSBFSolver'
+1369397398037	Move compilation unit
+1369398155140	Rename type 'Heuristic'
+1369398169530	Rename type 'ManhattanHeuristic'
+1369398174680	Rename type 'NoneHeuristic'
+1369398184852	Rename method 'calculateCost'
+1369399671070	Delete element
+1369399944522	Rename type 'HeuristicFunction'
+1369399950534	Rename type 'MisplacedTilesHeuristicFunction'
+1369399956458	Rename type 'NoneHeuristicFunction'
+1369399990073	Rename field 'heuristicFunction'
+1369399996643	Rename local variable 'heuristicFunction'
+1369400243493	Delete elements
+1369441316704	Delete element

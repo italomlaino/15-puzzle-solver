@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.gui.MainGUI.updateMemoryInfo()&apos; to &apos;memoryAlert&apos;&#x0D;&#x0A;- Original project: &apos;15PuzzleSolverGUI&apos;&#x0D;&#x0A;- Original element: &apos;com.gui.MainGUI.updateMemoryInfo()&apos;&#x0D;&#x0A;- Renamed element: &apos;com.gui.MainGUI.memoryAlert()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;updateMemoryInfo&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.gui{MainGUI.java[MainGUI~updateMemoryInfo" name="memoryAlert" references="true" stamp="1371709991832" version="1.0"/>
+</session>

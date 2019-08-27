@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.jvmmonitor.internal.ui.properties.cpu.CpuSection">
+		<item value="com.bf,com.bf.searcher,com.bf.searcher.priority,com.cli,com.competition.cli,com.competition.model,com.gui,com.gui.backgroundthread,com.gui.stateviewer,com.heuristic,com.model,com.scrambler,com.solver,com.test.bf,com.test.heuristic,com.test.model,com.test.scrambler,com.test.solver,com.util" key="org.jvmmonitor.ui.packages"/>
+		<item value="SAMPLING" key="org.jvmmonitor.ui.profilerType"/>
+		<item value="50" key="org.jvmmonitor.ui.profilerSampingPeriod"/>
+	</section>
+	<section name="ToggleOrientationAction">
+	</section>
+</section>
